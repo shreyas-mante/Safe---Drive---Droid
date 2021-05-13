@@ -23,7 +23,7 @@ import com.gpp.Blocker;
 import com.gpp.Services.DriveModeEnabledService;
 import com.gpp.Services.SpeedUpdates;
 import com.gpp.UserSettings;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 import pl.bclogic.pulsator4droid.library.PulsatorLayout;
 

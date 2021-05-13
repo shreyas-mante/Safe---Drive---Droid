@@ -25,7 +25,7 @@ import android.widget.Toast;
 
 import com.gpp.Adapters.PageAdapter;
 import com.gpp.UserSettings;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 import java.util.Locale;
 

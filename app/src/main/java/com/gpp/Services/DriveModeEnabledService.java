@@ -16,7 +16,7 @@ import android.util.Log;
 
 import com.gpp.Activities.DriveModeEnabledActivity;
 import com.gpp.Blocker;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 /**
  * A foreground service to notify the user that the DriveMode is currently enabled

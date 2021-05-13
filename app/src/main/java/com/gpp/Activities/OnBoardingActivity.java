@@ -15,7 +15,7 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 
 import com.gpp.UserSettings;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 import com.hololo.tutorial.library.PermissionStep;
 import com.hololo.tutorial.library.Step;
 import com.hololo.tutorial.library.TutorialActivity;

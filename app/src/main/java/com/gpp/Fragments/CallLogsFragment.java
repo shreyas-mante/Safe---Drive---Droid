@@ -18,7 +18,7 @@ import android.widget.SimpleCursorAdapter;
 
 import com.gpp.DB_Helpers.CallLogsContract;
 import com.gpp.DB_Helpers.CallLogsDBHelper;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class CallLogsFragment extends Fragment {
 

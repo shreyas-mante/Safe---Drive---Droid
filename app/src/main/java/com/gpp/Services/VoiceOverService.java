@@ -12,7 +12,7 @@ import android.os.IBinder;
 import android.util.Log;
 
 import com.gpp.BroadcastRecievers.EmergencySMS;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class VoiceOverService extends Service {
 

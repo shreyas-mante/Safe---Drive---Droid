@@ -16,7 +16,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 
 import com.gpp.UserSettings;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class AutoReplyFragment extends Fragment {
 

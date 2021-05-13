@@ -28,7 +28,7 @@ import android.widget.Toast;
 
 import com.gpp.Activities.DriveModeEnabledActivity;
 import com.gpp.Activities.LaunchActivity;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class SpeedUpdates extends Service {
 

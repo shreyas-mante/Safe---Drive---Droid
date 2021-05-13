@@ -19,7 +19,7 @@ import android.widget.CheckBox;
 import com.gpp.Activities.DriveModeEnabledActivity;
 import com.gpp.Services.SpeedUpdates;
 import com.gpp.UserSettings;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class DriveModeFragment extends Fragment {
 

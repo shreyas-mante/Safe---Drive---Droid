@@ -12,7 +12,7 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 import com.gpp.Fragments.AutoReplyFragment;
 import com.gpp.Fragments.CallLogsFragment;
 import com.gpp.Fragments.DriveModeFragment;
-import com.drigio.labs.callblock.R;
+import com.gpp.labs.gpp.R;
 
 public class PageAdapter extends FragmentStatePagerAdapter {
 
