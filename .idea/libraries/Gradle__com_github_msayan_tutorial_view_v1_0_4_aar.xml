@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.msayan:tutorial-view:v1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.4.aar/eedb041bbd3c1e43012d32c921a9f8af/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.4.aar/eedb041bbd3c1e43012d32c921a9f8af/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tutorial-view-v1.0.4.aar/eedb041bbd3c1e43012d32c921a9f8af/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
